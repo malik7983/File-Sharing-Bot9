@@ -184,7 +184,7 @@ async def index_files_to_db(lst_msg_id, chat, msg, bot):
                         logger.warning("Skipping deleted / Non-Media messages (if this continues for long, use /setskip to set a skip number)")     
                     else:
                         logger.exception(e)
-                current += 2
+                current += 10
                 if current % 40 == 0:
                     can = [[InlineKeyboardButton('Cancel', callback_data='index_cancel')]]
                     reply = InlineKeyboardMarkup(can)
