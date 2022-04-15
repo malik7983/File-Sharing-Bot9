@@ -8,5 +8,5 @@ else
 fi
 cd /File-Sharing-Bot9
 pip3 install -U -r requirements.txt
-echo "Starting ᗩᒍᗩ᙭....🔥"
+echo "Starting bot....🔥"
 python3 bot.py
