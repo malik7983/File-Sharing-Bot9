@@ -11,7 +11,6 @@
 [![Forks](https://img.shields.io/github/forks/malik7983/File-Sharing-Bot9?style=flat-square&color=blue)](https://github.com/malik7983/File-Sharing-Bot9/fork)
 [![Size](https://img.shields.io/github/repo-size/malik7983/File-Sharing-Bot9?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/malik7983/File-Sharing-Bot9)   
-[![Contributors](https://img.shields.io/github/contributors/malik7983/File-Sharing-Bot9?style=flat-square&color=green)](https://github.com/malik7983/File-Sharing-Bot9/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
